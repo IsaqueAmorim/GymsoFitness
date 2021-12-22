@@ -13,10 +13,13 @@ A página conta com 5 sessões:
   <li>Contact</li>
 </ul>
 
-Todas as sessões contam com animações, principalmente animações relacionadas ao scroll, onde, conforme o usuário navega pela página o conteúdo surge dinamicamente.
 
-obs: A página foi construída em inglês, para prática da língua.
 
+1) O Projeto é totalmente responsivo, ou seja, se adapta a tela do dispositivo do usuário.
+
+2) A página foi construída em inglês, para prática da língua.
+
+3) Todas as sessões contam com animações, principalmente animações relacionadas ao scroll, onde, conforme o usuário navega pela página o conteúdo surge dinamicamente.
 >### Tecnologias Utilizadas:
 
 <ul>
