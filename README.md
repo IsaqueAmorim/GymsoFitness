@@ -30,4 +30,10 @@ A página conta com 5 sessões:
 
 # SCREENSHOTS
 
-### Sessão Home
+<img src="https://github.com/IsaqueAmorim/GymsoFitness/blob/main/screenshots/home.PNG?raw=true"></img>
+<img src="https://github.com/IsaqueAmorim/GymsoFitness/blob/main/screenshots/home_.PNG"></img>
+<img src="https://github.com/IsaqueAmorim/GymsoFitness/blob/main/screenshots/about.PNG"></img>
+<img src="https://github.com/IsaqueAmorim/GymsoFitness/blob/main/screenshots/classes.PNG"></img>
+<img src="https://github.com/IsaqueAmorim/GymsoFitness/blob/main/screenshots/schedules.PNG"></img>
+<img src="https://github.com/IsaqueAmorim/GymsoFitness/blob/main/screenshots/contact.PNG"></img>
+
